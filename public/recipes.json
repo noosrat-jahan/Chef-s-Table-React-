@@ -1,0 +1,110 @@
+[
+    {
+      "recipe_id": "1",
+      "recipe_name": "Spaghetti Carbonara",
+      "recipe_image": "https://i.ibb.co.com/vk3LvVd/spageti.jpg",
+      "short_description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+      "ingredient_list": [
+        "200g spaghetti",
+        "100g pancetta",
+        "2 large eggs",
+        "50g parmesan cheese",
+        "2 cloves garlic",
+        "1 tbsp olive oil",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": "20",
+      "calories": "600"
+    },
+    {
+      "recipe_id": "2",
+      "recipe_name": "Chicken Caesar Salad",
+      "recipe_image": "https://i.ibb.co.com/tsb0Ck5/salad.jpg",
+      "short_description": "A crisp, fresh salad with grilled chicken, romaine lettuce, Caesar dressing, and croutons.",
+      "ingredient_list": [
+        "150g grilled chicken breast",
+        "200g romaine lettuce",
+        "50g croutons",
+        "30g parmesan cheese",
+        "3 tbsp Caesar dressing",
+        "1 tbsp olive oil",
+        "Salt and pepper to taste"
+      ],
+      "preparing_time": "15",
+      "calories": "450"
+    },
+    {
+      "recipe_id": "3",
+      "recipe_name": "Mushroom Risotto",
+      "recipe_image": "https://i.ibb.co.com/MP1LvRb/mashroom.jpg",
+      "short_description": "Creamy risotto made with mushrooms, arborio rice, and parmesan cheese.",
+      "ingredient_list": [
+        "200g arborio rice",
+        "150g mushrooms",
+        "1 onion",
+        "2 cloves garlic",
+        "50g parmesan cheese",
+        "500ml vegetable broth",
+        "1 tbsp olive oil"
+      ],
+      "preparing_time": "30",
+      "calories": "550"
+    },
+    {
+      "recipe_id": "4",
+      "recipe_name": "Beef Tacos",
+      "recipe_image": "https://i.ibb.co.com/ggz9PnJ/beef.jpg",
+      "short_description": "Mexican-style beef tacos with fresh salsa, lettuce, and cheese.",
+      "ingredient_list": [
+        "200g ground beef",
+        "4 taco shells",
+        "50g cheddar cheese",
+        "1 tomato",
+        "50g lettuce",
+        "2 tbsp sour cream",
+        "1 tsp taco seasoning"
+      ],
+      "preparing_time": "25",
+      "calories": "500"
+    },
+    {
+      "recipe_id": "5",
+      "recipe_name": "Vegetable Stir-fry",
+      "recipe_image": "https://i.ibb.co.com/G0pSMC4/vegtbl.jpg",
+      "short_description": "A quick and healthy vegetable stir-fry with soy sauce and ginger.",
+      "ingredient_list": [
+        "100g broccoli",
+        "100g carrots",
+        "100g bell peppers",
+        "1 onion",
+        "2 cloves garlic",
+        "2 tbsp soy sauce",
+        "1 tsp ginger"
+      ],
+      "preparing_time": "15",
+      "calories": "300"
+    },
+    {
+      "recipe_id": "6",
+      "recipe_name": "Chocolate Brownies",
+      "recipe_image": "https://i.ibb.co.com/tBH7wsZ/brownie.jpg",
+      "short_description": "Rich, fudgy chocolate brownies made with cocoa and dark chocolate.",
+      "ingredient_list": [
+        "100g dark chocolate",
+        "100g butter",
+        "150g sugar",
+        "2 large eggs",
+        "100g flour",
+        "2 tbsp cocoa powder",
+        "1 tsp vanilla extract"
+      ],
+      "preparing_time": "40",
+      "calories": "400"
+    }
+  ]
+  
+
+
+  
+
+
